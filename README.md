@@ -35,11 +35,14 @@
    - [Link Portal MVP Microsoft - Brasil](https://mvp.microsoft.com/pt-br/MvpSearch?ex=Microsoft+Azure&lo=Brazil&sc=e)
 
    ### Cloud FinOps
+   - Otimizar os custos com o Azure - [Link Portal Microsoft - Otimização de Custos](https://azure.microsoft.com/pt-pt/solutions/cost-optimization/#tools)
   
    ### DevOps
-   
    - STATUS Serviços Azure DevOps - [Link Status Serviços Microsoft](https://status.dev.azure.com/)
 
+   ### Azure Speed
+   >Azure Speed é uma ferramenta *não oficial* para teste de velocidade que mede a latência de sua rede, download e velocidade de upload em vários locais globais.
+   - [Link Portal AzureSpeed] (https://www.azurespeed.com/)
 
 ## 📂 SITES / BLOGS RELACIONAODS
 
