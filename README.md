@@ -1,18 +1,20 @@
-# Guia-Microsoft
+<p align="center">
+  </a>
+  <h1 align="center">Guia Microsoft</h1>
+</p>
 
-# Guia-Cloud
-Objetivo deste guia é consolidar tudo relacionado a conhecimento no mundo de Microsoft Cloud, e ser um guia de referência para profissionais que já estão atuando na área como tambem para novos profissionais! 
+## Guia-Cloud
+> Objetivo deste guia é consolidar tudo relacionado a conhecimento no mundo de Microsoft Cloud, e ser um guia de referência para profissionais que já estão atuando na área como tambem para novos profissionais! 
 
 ## ⚠️ Aviso importante
 
-Conteúdo em Construção!
-Se você tem algum material que possa agregar, compartilhe conosco!
+>Conteúdo em Construção!  Se você tem algum conteúdo que possa agregar, compartilhe conosco!
 
 ## STATUS Serviços Azure Cloud
    - [Link Status Serviços Microsoft](https://azure.status.microsoft/)
 
 ## MELHORES PRÁTICAS
-   #### CAF (Cloud Adoption Framework)
+   #### - CAF (Cloud Adoption Framework)
    - [Link Documentação Microsoft](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/)
 
 ## CALCULADORA de Preços Azure Cloud
@@ -26,7 +28,7 @@ Se você tem algum material que possa agregar, compartilhe conosco!
 
    ### DevOps
    
-   #### STATUS Serviços Azure DevOps
+   #### - STATUS Serviços Azure DevOps
    - [Link Status Serviços Microsoft](https://status.dev.azure.com/)
 
 
