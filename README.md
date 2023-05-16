@@ -30,7 +30,7 @@
    
    ### Azure - BOAS PRATICAS
    - Convenção de nomenclatura - [Link Definição de nomenclatura Azure Services](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
- 
+   - Exemplos de Abreviação de Recursos Azure (Nomenclatura) - [Link Recomendação Abreviaturas Azure Services](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
   
    ### DevOps
    
