@@ -29,8 +29,12 @@
 
 
 ## 🍺 CONTEÚDOS COMPLEMENTARES
+   ### MVPs Azure
+   >Os MVPs (Most Valuable Professiona (Profissionais Mais Valiosos)) da Microsoft são especialistas em tecnologia que adoram compartilhar conhecimento com a comunidade. 
+   - [Link Portal MVP Microsoft](https://mvp.microsoft.com/pt-br/MvpSearch?ex=Microsoft+Azure&sc=e)
+   - [Link Portal MVP Microsoft - Brasil](https://mvp.microsoft.com/pt-br/MvpSearch?ex=Microsoft+Azure&lo=Brazil&sc=e)
 
-   ### Azure FinOps
+   ### Cloud FinOps
   
    ### DevOps
    
