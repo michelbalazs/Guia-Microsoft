@@ -14,12 +14,9 @@
 ## ⌛ STATUS Serviços Azure Cloud - [Link Status Serviços Microsoft](https://azure.status.microsoft/)
 
 ## 📙 MELHORES PRÁTICAS
-   #### - CAF (Cloud Adoption Framework)
-   - [Link Documentação Microsoft](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/)
-   #### - Convenção de nomenclatura
-   - [Link Definição de nomenclatura Azure Services](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
-   #### - Exemplos de Abreviação de Recursos Azure (Nomenclatura)
-   - [Link Recomendação Abreviaturas Azure Services](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
+   #### - CAF (Cloud Adoption Framework) - [Link Documentação Microsoft](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/)
+   #### - Convenção de nomenclatura - [Link Definição de nomenclatura Azure Services](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+   #### - Exemplos de Abreviação de Recursos Azure (Nomenclatura) - [Link Recomendação Abreviaturas Azure Services](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
    
 ## 📗 CALCULADORA de Preços Azure Cloud
    - [Link Calculadora Microsoft](https://azure.microsoft.com/pt-br/pricing/calculator/)
@@ -37,6 +34,9 @@
    ### Cloud FinOps
    - Otimizar os custos com o Azure - [Link Portal Microsoft - Otimização de Custos](https://azure.microsoft.com/pt-pt/solutions/cost-optimization/#tools)
   
+   ### Eportar Recursos Azure para Terraform **aztfexport**
+   - [Link para repositório Oficial do Projeto](https://github.com/Azure/aztfexport)
+ 
    ### DevOps
    - STATUS Serviços Azure DevOps - [Link Status Serviços Microsoft](https://status.dev.azure.com/)
 
