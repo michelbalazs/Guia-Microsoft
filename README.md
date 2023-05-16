@@ -11,8 +11,7 @@
 
 >Conteúdo em Construção!  Se você tem algum conteúdo que possa agregar, compartilhe conosco!
 
-## ⌛ STATUS Serviços Azure Cloud
-   - [Link Status Serviços Microsoft](https://azure.status.microsoft/)
+## ⌛ STATUS Serviços Azure Cloud - [Link Status Serviços Microsoft](https://azure.status.microsoft/)
 
 ## 📙 MELHORES PRÁTICAS
    #### - CAF (Cloud Adoption Framework)
@@ -27,10 +26,15 @@
 
 ## 🍺 CONTEÚDOS COMPLEMENTARES
 
+   ### Azure FinOps
+   
+   ### Azure - BOAS PRATICAS
+   - Convenção de nomenclatura - [Link Definição de nomenclatura Azure Services](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+ 
+  
    ### DevOps
    
-   #### - STATUS Serviços Azure DevOps
-   - [Link Status Serviços Microsoft](https://status.dev.azure.com/)
+   - STATUS Serviços Azure DevOps - [Link Status Serviços Microsoft](https://status.dev.azure.com/)
 
 
 ## 📂 SITES / BLOGS RELACIONAODS
