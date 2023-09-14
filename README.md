@@ -22,6 +22,8 @@
    - [Link Calculadora Microsoft](https://azure.microsoft.com/pt-br/pricing/calculator/)
 
 ## 📘 Treinamentos Oficiais
+   - [Link Microsoft Learn](https://learn.microsoft.com/pt-br/training/azure/)
+
 ## 📒 Treinamentos Free
 
 
