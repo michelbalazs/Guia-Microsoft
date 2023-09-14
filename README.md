@@ -9,7 +9,7 @@
 
 ## ⚠️ Aviso importante
 
->Conteúdo em Construção!  Se você tem algum conteúdo que possa agregar, compartilhe conosco!
+>Em Construção!  Se você tem algum conteúdo que possa agregar, compartilhe conosco!
 
 ## ⌛ STATUS Serviços Azure Cloud - [Link Status Serviços Microsoft](https://azure.status.microsoft/)
 
