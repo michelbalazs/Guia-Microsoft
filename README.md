@@ -49,7 +49,7 @@ A criação desde material foi baseado na ideia do [guiadevbrasil](https://githu
    -  [Link Portal AzureSpeed] (https://www.azurespeed.com/)
 
 ## 📂 SITES / BLOGS RELACIONAODS
-    >Open Source Technologies Blog for Microsoft Azure App Service
+   >Open Source Technologies Blog for Microsoft Azure App Service
     - [Link Blog Azure OSSD] https://azureossd.github.io/
 ## 📂 CANAIS NO YOUTUBE COM CONTEÚDO CLOUD
 
