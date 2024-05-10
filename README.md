@@ -46,10 +46,11 @@ A criação desde material foi baseado na ideia do [guiadevbrasil](https://githu
 
    ### Azure Speed
    >Azure Speed é uma ferramenta *não oficial* para teste de velocidade que mede a latência de sua rede, download e velocidade de upload em vários locais globais.
-   - [Link Portal AzureSpeed] (https://www.azurespeed.com/)
+   -  [Link Portal AzureSpeed] (https://www.azurespeed.com/)
 
 ## 📂 SITES / BLOGS RELACIONAODS
-
+    >Open Source Technologies Blog for Microsoft Azure App Service
+    - [Link Blog Azure OSSD] https://azureossd.github.io/
 ## 📂 CANAIS NO YOUTUBE COM CONTEÚDO CLOUD
 
 ## 📁 LIVROS
