@@ -26,8 +26,8 @@ A criação desde material foi baseado na ideia do [guiadevbrasil](https://githu
 ## 📘 Treinamentos Oficiais
    - [Link Microsoft Learn](https://learn.microsoft.com/pt-br/training/azure/)
 
-## 📒 Treinamentos Free
-
+## 📒 Treinamentos
+   - [TFTEC Cloud] (https://www.tftec.com.br/)
 
 ## 🍺 CONTEÚDOS COMPLEMENTARES
    ### MVPs Azure
